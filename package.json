@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "a TDD Kata- an exercise in coding, refactoring and test-first",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/calculator-tdd-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/calculator-tdd-kata/issues"
+  },
+  "homepage": "https://github.com/gSchool/calculator-tdd-kata#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
